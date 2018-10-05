@@ -1,4 +1,7 @@
 # simone-xtah
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/insanity54/simone-xtah.svg)](https://greenkeeper.io/)
+
 ROJATONE
 
 This program is meant to act as a low cost way of remotely monitoring a simon xt. The only cost is the Plivo service. The program works with Plivo to record calls from the simon xt and send the sound clip to a list of e-mail addresses.
